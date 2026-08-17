@@ -6,3 +6,6 @@ World
 print('\a')
 print("hello",'world',sep="_",end=" ")
 print("shyam")
+print("sundhar"*3)
+print("shyam"+"sundhar")#concat
+
